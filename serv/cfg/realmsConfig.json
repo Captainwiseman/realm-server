@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Esmeralda",
+    "_rank": 100,
+    "currency": {
+      "name": "Malditos",
+      "value": 1
+    },
+    "heroes": [],
+    "armies": [],
+    "ownedLands": [],
+    "calcs": {
+      "activeStatuses": [],
+      "passiveStatuses": [],
+      "actionsQueue": []
+    }
+  },
+  {
+    "name": "ShiaaLeRadi",
+    "_rank": 100,
+    "currency": {
+      "name": "Parsecs",
+      "value": 1
+    },
+    "heroes": [],
+    "armies": [],
+    "ownedLands": [],
+    "calcs": {
+      "activeStatuses": [],
+      "passiveStatuses": [],
+      "actionsQueue": []
+    }
+  },
+  {
+    "name": "Zergonia",
+    "_rank": 100,
+    "currency": {
+      "name": "Nefretiti",
+      "value": 1
+    },
+    "heroes": [],
+    "armies": [],
+    "ownedLands": [],
+    "calcs": {
+      "activeStatuses": [],
+      "passiveStatuses": [],
+      "actionsQueue": []
+    }
+  }
+]

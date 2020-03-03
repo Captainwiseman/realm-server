@@ -1,0 +1,6 @@
+{"service":"user-service","level":"info","message":"Selected Options:"}
+{"message":"Debug Module...","level":"info","service":"user-service"}
+{"message":"{\"help\":false,\"start\":false,\"details\":false,\"update\":false,\"build\":false,\"debug\":true}","level":"info","service":"user-service"}
+{"message":"Debug Module...","level":"info","service":"user-service"}
+{"message":"{\"help\":false,\"start\":false,\"details\":false,\"update\":false,\"build\":false,\"debug\":true}","level":"info","service":"user-service","timestamp":"2020-02-18 22:31:16"}
+{"message":"Debug Module...","level":"info","service":"user-service","timestamp":"2020-02-18 22:31:16"}

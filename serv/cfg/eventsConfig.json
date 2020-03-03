@@ -1,0 +1,6 @@
+[{
+    "name": "Hail",
+    "type": "Disaster",
+    "severety": 0.3,
+    "affects": "common"
+}]
